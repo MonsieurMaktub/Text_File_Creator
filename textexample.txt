@@ -1,0 +1,1 @@
+& C:/Users/mackm/AppData/Local/Programs/Python/Python313/python.exe c:/Users/mackm/Documents/Projects/Text_File_Creator/Text_File_Creator.py created this file
